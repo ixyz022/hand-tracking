@@ -1,11 +1,9 @@
 # Importamos las librerías necesarias
-from handDetector import handDetector
+from app.handDetector.handDetectorClass import handDetector
 import cv2
 import time
 
 # Inicializamos las variables de tiempo pTime y cTime a 0
-import cv2
-import time
 
 pTime = 0
 cTime = 0
