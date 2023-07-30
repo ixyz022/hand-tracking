@@ -1,0 +1,52 @@
+# Archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+*.o
+*.obj
+
+# Directorios de entorno virtual
+venv/
+env/
+env.bak/
+ENV/
+env1/
+env2/
+# Si estás utilizando Poetry para manejar dependencias
+.poetry/
+
+# Archivo de registro de dependencias
+requirements.txt
+pipfile.lock
+Pipfile.lock
+pipfile.toml
+Pipfile.toml
+
+# Archivo de configuración de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de caché
+*.cache
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Archivos de respaldo
+*~
+
+# Archivos de sistema
+desktop.ini
+Thumbs.db
